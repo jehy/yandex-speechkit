@@ -1,0 +1,10 @@
+config/config.json
+tmp/*
+node_modules
+logs
+npm-debug.log
+v8.log
+*#*
+*!*
+.idea/
+.DS_Store
